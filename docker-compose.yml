@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    volumes:
+      - h2-data:/data
+    environment:
+      - SPRING_DATASOURCE_URL=jdbc:h2:file:/data/testdb;DB_CLOSE_ON_EXIT=FALSE;AUTO_SERVER=TRUE
+    restart: unless-stopped
+
+volumes:
+  h2-data:
