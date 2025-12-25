@@ -1,0 +1,3 @@
+com/cupon/desafio/adapters/controller/CuponControllerTest.class
+com/cupon/desafio/application/ports/service/CuponServiceTest.class
+com/cupon/desafio/domain/usecase/CuponUsecaseTest.class

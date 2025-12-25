@@ -1,0 +1,11 @@
+/Users/brunosantiago/Desktop/develop/desafio-cupon/src/main/java/com/cupon/desafio/DesafioApplication.java
+/Users/brunosantiago/Desktop/develop/desafio-cupon/src/main/java/com/cupon/desafio/adapters/adapters/CuponMapper.java
+/Users/brunosantiago/Desktop/develop/desafio-cupon/src/main/java/com/cupon/desafio/adapters/controller/CuponController.java
+/Users/brunosantiago/Desktop/develop/desafio-cupon/src/main/java/com/cupon/desafio/adapters/dto/CuponRequestDto.java
+/Users/brunosantiago/Desktop/develop/desafio-cupon/src/main/java/com/cupon/desafio/adapters/dto/CuponResponseDto.java
+/Users/brunosantiago/Desktop/develop/desafio-cupon/src/main/java/com/cupon/desafio/application/ports/repository/CuponRepository.java
+/Users/brunosantiago/Desktop/develop/desafio-cupon/src/main/java/com/cupon/desafio/application/ports/service/CuponService.java
+/Users/brunosantiago/Desktop/develop/desafio-cupon/src/main/java/com/cupon/desafio/config/OpenApiConfig.java
+/Users/brunosantiago/Desktop/develop/desafio-cupon/src/main/java/com/cupon/desafio/domain/entity/Cupon.java
+/Users/brunosantiago/Desktop/develop/desafio-cupon/src/main/java/com/cupon/desafio/domain/entity/CuponStatus.java
+/Users/brunosantiago/Desktop/develop/desafio-cupon/src/main/java/com/cupon/desafio/domain/usecase/CuponUsecase.java
